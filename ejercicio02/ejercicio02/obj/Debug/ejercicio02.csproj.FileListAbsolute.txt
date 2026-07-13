@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\ejercicios\examen\ejercicio02\ejercicio02\bin\Debug\ejercicio02.exe.config
+C:\Users\User\Desktop\ejercicios\examen\ejercicio02\ejercicio02\bin\Debug\ejercicio02.exe
+C:\Users\User\Desktop\ejercicios\examen\ejercicio02\ejercicio02\bin\Debug\ejercicio02.pdb
+C:\Users\User\Desktop\ejercicios\examen\ejercicio02\ejercicio02\obj\Debug\ejercicio02.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio02\ejercicio02\obj\Debug\ejercicio02.Form1.resources
+C:\Users\User\Desktop\ejercicios\examen\ejercicio02\ejercicio02\obj\Debug\ejercicio02.Properties.Resources.resources
+C:\Users\User\Desktop\ejercicios\examen\ejercicio02\ejercicio02\obj\Debug\ejercicio02.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio02\ejercicio02\obj\Debug\ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio02\ejercicio02\obj\Debug\ejercicio02.exe
+C:\Users\User\Desktop\ejercicios\examen\ejercicio02\ejercicio02\obj\Debug\ejercicio02.pdb
