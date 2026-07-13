@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\ejercicios\examen\ejercicio28\ejercicio28\obj\Debug\ejercicio28.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio28\ejercicio28\obj\Debug\ejercicio28.Form1.resources
+C:\Users\User\Desktop\ejercicios\examen\ejercicio28\ejercicio28\obj\Debug\ejercicio28.Properties.Resources.resources
+C:\Users\User\Desktop\ejercicios\examen\ejercicio28\ejercicio28\obj\Debug\ejercicio28.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio28\ejercicio28\obj\Debug\ejercicio28.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio28\ejercicio28\bin\Debug\ejercicio28.exe.config
+C:\Users\User\Desktop\ejercicios\examen\ejercicio28\ejercicio28\bin\Debug\ejercicio28.exe
+C:\Users\User\Desktop\ejercicios\examen\ejercicio28\ejercicio28\bin\Debug\ejercicio28.pdb
+C:\Users\User\Desktop\ejercicios\examen\ejercicio28\ejercicio28\obj\Debug\ejercicio28.exe
+C:\Users\User\Desktop\ejercicios\examen\ejercicio28\ejercicio28\obj\Debug\ejercicio28.pdb
