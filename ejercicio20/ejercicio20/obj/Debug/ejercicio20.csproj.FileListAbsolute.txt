@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\ejercicios\examen\ejercicio20\ejercicio20\bin\Debug\ejercicio20.exe.config
+C:\Users\User\Desktop\ejercicios\examen\ejercicio20\ejercicio20\bin\Debug\ejercicio20.exe
+C:\Users\User\Desktop\ejercicios\examen\ejercicio20\ejercicio20\bin\Debug\ejercicio20.pdb
+C:\Users\User\Desktop\ejercicios\examen\ejercicio20\ejercicio20\obj\Debug\ejercicio20.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio20\ejercicio20\obj\Debug\ejercicio20.Form1.resources
+C:\Users\User\Desktop\ejercicios\examen\ejercicio20\ejercicio20\obj\Debug\ejercicio20.Properties.Resources.resources
+C:\Users\User\Desktop\ejercicios\examen\ejercicio20\ejercicio20\obj\Debug\ejercicio20.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio20\ejercicio20\obj\Debug\ejercicio20.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio20\ejercicio20\obj\Debug\ejercicio20.exe
+C:\Users\User\Desktop\ejercicios\examen\ejercicio20\ejercicio20\obj\Debug\ejercicio20.pdb
