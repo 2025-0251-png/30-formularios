@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\ejercicios\examen\ejercicio13\ejercicio13\bin\Debug\ejercicio13.exe.config
+C:\Users\User\Desktop\ejercicios\examen\ejercicio13\ejercicio13\bin\Debug\ejercicio13.exe
+C:\Users\User\Desktop\ejercicios\examen\ejercicio13\ejercicio13\bin\Debug\ejercicio13.pdb
+C:\Users\User\Desktop\ejercicios\examen\ejercicio13\ejercicio13\obj\Debug\ejercicio13.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio13\ejercicio13\obj\Debug\ejercicio13.Form1.resources
+C:\Users\User\Desktop\ejercicios\examen\ejercicio13\ejercicio13\obj\Debug\ejercicio13.Properties.Resources.resources
+C:\Users\User\Desktop\ejercicios\examen\ejercicio13\ejercicio13\obj\Debug\ejercicio13.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio13\ejercicio13\obj\Debug\ejercicio13.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio13\ejercicio13\obj\Debug\ejercicio13.exe
+C:\Users\User\Desktop\ejercicios\examen\ejercicio13\ejercicio13\obj\Debug\ejercicio13.pdb
