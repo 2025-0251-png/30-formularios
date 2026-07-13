@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\ejercicios\examen\ejercicio23\ejercicio23\bin\Debug\ejercicio23.exe.config
+C:\Users\User\Desktop\ejercicios\examen\ejercicio23\ejercicio23\bin\Debug\ejercicio23.exe
+C:\Users\User\Desktop\ejercicios\examen\ejercicio23\ejercicio23\bin\Debug\ejercicio23.pdb
+C:\Users\User\Desktop\ejercicios\examen\ejercicio23\ejercicio23\obj\Debug\ejercicio23.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio23\ejercicio23\obj\Debug\ejercicio23.Form1.resources
+C:\Users\User\Desktop\ejercicios\examen\ejercicio23\ejercicio23\obj\Debug\ejercicio23.Properties.Resources.resources
+C:\Users\User\Desktop\ejercicios\examen\ejercicio23\ejercicio23\obj\Debug\ejercicio23.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio23\ejercicio23\obj\Debug\ejercicio23.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio23\ejercicio23\obj\Debug\ejercicio23.exe
+C:\Users\User\Desktop\ejercicios\examen\ejercicio23\ejercicio23\obj\Debug\ejercicio23.pdb
