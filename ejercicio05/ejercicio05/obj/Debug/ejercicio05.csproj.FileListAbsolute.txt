@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\ejercicios\examen\ejercicio05\ejercicio05\bin\Debug\ejercicio05.exe.config
+C:\Users\User\Desktop\ejercicios\examen\ejercicio05\ejercicio05\bin\Debug\ejercicio05.exe
+C:\Users\User\Desktop\ejercicios\examen\ejercicio05\ejercicio05\bin\Debug\ejercicio05.pdb
+C:\Users\User\Desktop\ejercicios\examen\ejercicio05\ejercicio05\obj\Debug\ejercicio05.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio05\ejercicio05\obj\Debug\ejercicio05.Form1.resources
+C:\Users\User\Desktop\ejercicios\examen\ejercicio05\ejercicio05\obj\Debug\ejercicio05.Properties.Resources.resources
+C:\Users\User\Desktop\ejercicios\examen\ejercicio05\ejercicio05\obj\Debug\ejercicio05.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio05\ejercicio05\obj\Debug\ejercicio05.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio05\ejercicio05\obj\Debug\ejercicio05.exe
+C:\Users\User\Desktop\ejercicios\examen\ejercicio05\ejercicio05\obj\Debug\ejercicio05.pdb

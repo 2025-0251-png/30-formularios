@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\ejercicios\examen\ejercicio08\ejercicio08\bin\Debug\ejercicio08.exe.config
+C:\Users\User\Desktop\ejercicios\examen\ejercicio08\ejercicio08\bin\Debug\ejercicio08.exe
+C:\Users\User\Desktop\ejercicios\examen\ejercicio08\ejercicio08\bin\Debug\ejercicio08.pdb
+C:\Users\User\Desktop\ejercicios\examen\ejercicio08\ejercicio08\obj\Debug\ejercicio08.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio08\ejercicio08\obj\Debug\ejercicio08.Form1.resources
+C:\Users\User\Desktop\ejercicios\examen\ejercicio08\ejercicio08\obj\Debug\ejercicio08.Properties.Resources.resources
+C:\Users\User\Desktop\ejercicios\examen\ejercicio08\ejercicio08\obj\Debug\ejercicio08.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio08\ejercicio08\obj\Debug\ejercicio08.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicios\examen\ejercicio08\ejercicio08\obj\Debug\ejercicio08.exe
+C:\Users\User\Desktop\ejercicios\examen\ejercicio08\ejercicio08\obj\Debug\ejercicio08.pdb
